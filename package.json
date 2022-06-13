@@ -1,0 +1,15 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab2.js",
+  "scripts": {
+    "start": "nodemon lab2.js"
+  },
+  "keywords": [],
+  "author": "Dmytro Kuts",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
